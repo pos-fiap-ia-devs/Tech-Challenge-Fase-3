@@ -120,8 +120,8 @@ print(response)
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Exportar ConsultasMedica para HuggingFace Hub")
-    parser.add_argument("--hf-user", type=str, help="Seu username no HuggingFace")
+    parser = argparse.ArgumentParser(description="Exportar Consultas Medica para HuggingFace Hub")
+    parser.add_argument("--hf-user", type=str, help="wellsondahostaraguaia")
     parser.add_argument("--repo-name", type=str, default="consultas-medica-saude-mulher",
                         help="Nome do repositório (default: consultas-medica-saude-mulher)")
     args = parser.parse_args()
