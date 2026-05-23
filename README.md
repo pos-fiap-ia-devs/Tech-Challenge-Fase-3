@@ -144,7 +144,10 @@ wellson.digital@gmail.com
 **Autor:** [Nelson Seiji Takahashi]
 seiji8503@gmail.com
 
+- **Dataset:** 16000 exemplos sintéticos de saúde da mulher  (https://www.kaggle.com/datasets/wellsonalmeida/medquad-medical-question-answering-dataset)
 
+- **Vídeo:** 
+- 
 **Projeto**  - https://github.com/pos-fiap-ia-devs/Tech-Challenge-Fase-3
 
 ---
