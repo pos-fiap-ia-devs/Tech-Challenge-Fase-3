@@ -135,6 +135,8 @@ echo ""
 
 # --- PIPELINE ---
 echo "[1/5] Instalando dependências..."
+# Limpa VIRTUAL_ENV herdado de outro projeto para evitar conflito com uv
+unset VIRTUAL_ENV
 uv sync
 
 echo ""
