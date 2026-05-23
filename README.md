@@ -110,6 +110,14 @@ Menu interativo pergunta:
 
 O script verifica `uv`, `ollama` e arquitetura antes de iniciar. Limpa artefatos anteriores (FAISS index, adapters, fused_model, audit DB) automaticamente.
 
+> **Troubleshooting — aviso `VIRTUAL_ENV does not match`:**  
+> Se o terminal herdou `VIRTUAL_ENV` de outro projeto, o `uv` ignora o `.venv` correto.  
+> Solução: rode `unset VIRTUAL_ENV` antes de executar o script, ou use:
+>
+> ```bash
+> unset VIRTUAL_ENV && ./run_finetune.sh
+> ```
+
 ---
 
 ## 🧪 Cenários de Teste
