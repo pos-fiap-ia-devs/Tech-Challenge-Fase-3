@@ -138,15 +138,16 @@ Cenários clínicos validados automaticamente via `fine_tuning/avaliar_modelo.py
 **FIAP - Pós Tech IA para Devs**   
 **Tech Challenge - Fase 3**  
 
-**Autor:** [Wellson Almeida dos Santos]
-wellson.digital@gmail.com
 
-**Autor:** [Nelson Seiji Takahashi]
-seiji8503@gmail.com
+**Autor:** [Wellson Almeida dos Santos] - (rm369201) (wellson.digital@gmail.com) 
+
+**Autor:** [Nelson Seiji] - (rm370089) (seiji8503@gmail.com) 
+
+Modelo feito - https://huggingface.co/wellsondahostaraguaia/consultas-medica-saude-mulher
 
 - **Dataset:** 16000 exemplos sintéticos de saúde da mulher  (https://www.kaggle.com/datasets/wellsonalmeida/medquad-medical-question-answering-dataset)
 
-- **Vídeo:** 
+- **Vídeo:** https://youtu.be/JLmCjh4OVkg
 - 
 **Projeto**  - https://github.com/pos-fiap-ia-devs/Tech-Challenge-Fase-3
 
